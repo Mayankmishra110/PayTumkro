@@ -108,9 +108,9 @@ This was my first time using libraries like mongoose, zod, react-router, and sha
 
 <strong>⭐ Leave a star maybe? ⭐</strong><br>
 
-<a href="https://github.com/buneeIsSlo/payup">Source</a>
-| <a href="https://twitter.com/slo_bunee" target="_blank">Twitter </a>
-| <a href="https://www.linkedin.com/in/bunee-dev/" target="_blank">LinkedIn </a>
-| <a href="https://github.com/buneeIsSlo" target="_blank">Other Projects </a>
+<a href="https://github.com/mayankmishra110/paytm">Source</a>
+| <a href="https://twitter.com/mayankkrmishra0" target="_blank">Twitter </a>
+| <a href="https://www.linkedin.com/in/mayankmishracse/" target="_blank">LinkedIn </a>
+| <a href="https://github.com/mayankmishra110" target="_blank">Other Projects </a>
 
 </div>
