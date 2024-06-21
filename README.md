@@ -100,7 +100,7 @@ npm run dev
 
 ## 🧠Takeaways
 
-This was my first time using libraries like mongoose, zod, react-router, and shadcn-ui. I've learned a lot while creating this project and, honestly a little difficult for me to unpack it all in a github readme. I'd love to write a blog about all my learnings sometime soon, and once I do, I'll be sure to post a link to it on here. Additionally, I want to thank [@hkirat](https://github.com/hkirat) for his amazing 100xdevs cohort.
+This was my first time using libraries like mongoose, zod, react-router, and shadcn-ui. I've learned a lot while creating this project and, honestly its little difficult for me to unpack it all in a github readme. I'd love to write a blog about all my learnings sometime soon, and once I do, I'll be sure to post a link to it on here. Additionally, I want to thank [@hkirat](https://github.com/hkirat) for his amazing 100xdevs cohort.
 
 <br>
 
